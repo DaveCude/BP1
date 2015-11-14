@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: dbd0a868a6d6f024ea1102902dcaa7b3
-timeCreated: 1444949460
+timeCreated: 1447480135
 licenseType: Free
 SubstanceImporter:
   serializedVersion: 5
@@ -124,7 +124,7 @@ SubstanceImporter:
         data:
           first:
             name: _Glossiness
-          second: .5
+          second: .300000012
         data:
           first:
             name: _BumpScale
@@ -157,7 +157,7 @@ SubstanceImporter:
         data:
           first:
             name: _Color
-          second: {r: 1, g: .942190766, b: .860294104, a: 1}
+          second: {r: .992156863, g: .992156863, b: .992156863, a: 1}
         data:
           first:
             name: _SpecColor
